@@ -1,0 +1,3 @@
+/data/data/com.termux/files/home/Argus/build/CMakeFiles/argus.dir
+/data/data/com.termux/files/home/Argus/build/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/Argus/build/CMakeFiles/rebuild_cache.dir
